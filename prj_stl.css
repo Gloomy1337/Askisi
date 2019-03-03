@@ -1,0 +1,10 @@
+p {
+	font-family:Georgia; 
+	text-align:left;
+}
+
+body {
+	background:url(Pictures/green.jpg) no-repeat;
+	background-size: 100%;
+	color: black;
+}
