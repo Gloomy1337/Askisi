@@ -38,6 +38,14 @@ li a:hover:not(.active) {
   background-color: #111;
 }
 
-.active {
+li1 a:hover:not(.sure) {
   background-color: #5092ff;
+}
+
+.sure{
+	background-color: #5092ff;
+}
+
+.active {
+  background-color: #1f3384;
 }
