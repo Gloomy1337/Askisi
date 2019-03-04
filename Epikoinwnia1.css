@@ -87,3 +87,9 @@ body {
   background:url(Eikones/Eikona1.jpg) no-repeat;
   background-size: 100%;
 }
+
+.position1 {
+	position:absolute;
+	left:40%; 
+	top:40%;
+}
