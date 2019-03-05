@@ -49,6 +49,16 @@ h2,h3 {
 	font-family:Georgia;
 }
 
+h4{
+	text-align: center;
+	font-family:Georgia;
+}
+
+h5{
+	text-align:center;
+	font-family:Georgia;
+}
+	
 img {
   width: 500px;
   height:400px;
