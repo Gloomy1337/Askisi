@@ -49,3 +49,7 @@ li1 a:hover:not(.sure) {
 .active {
   background-color: #1f3384;
 }
+
+img{
+	border-radius: 15%;
+}
